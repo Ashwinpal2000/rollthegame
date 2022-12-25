@@ -105,11 +105,11 @@ const App = () => {
               <ListItem>Select Number any number</ListItem>
               <ListItem>Click on dice image to roll it</ListItem>
               <ListItem>
-                Select number is equal to obtained dice result then you will get
+                Select number is equal to the twice of obtained dice result then you will get
                 same point of dice
               </ListItem>
               <ListItem>
-                if You are Wrong Score will be deducted by 2 points
+                if You are Wrong Score will be deducted by 1 points
               </ListItem>
             </List>
           </Stack>
